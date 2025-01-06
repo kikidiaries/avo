@@ -43,7 +43,7 @@ Avo is a very custom Admin Panel Framework, Content Management System, and Inter
 
 ## Features
 
-  - **Powered by Hotwire** - Rails ❤️  Hotwire
+  - **Powered by Hotwire** - Rails ❤️ Hotwire
   - **Code driven configuration** - Configure your Rails dashboard entirely by writing Ruby code. [docs](https://docs.avohq.io/3.0/resources.html#defining-resources)
   - **Resource Management** - Create a CRUD interface for Active Record from one command. No more copy-pasting view and controller files around.
   - **Dashboard widgets and metrics** - Create metrics, charts, and custom cards amazingly fast. [docs](https://docs.avohq.io/3.0/dashboards.html)
